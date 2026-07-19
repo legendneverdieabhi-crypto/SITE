@@ -83,9 +83,9 @@ const Footer = () => {
   return (
     <Container>
       <Left>
-        <Logo>HAFED STORE</Logo>
+        <Logo>DEMO STORE</Logo>
         <Desc>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum, adipisci blanditiis. Enim, sapiente. Dolores, hic, laboriosam laudantium cupiditate ullam iure assumenda aperiam voluptatibus quibusdam delectus ipsam error neque dolorem saepe?
+Success is built through dedication, perseverance, and a willingness to learn. Every challenge presents an opportunity to grow, and every achievement begins with a single step. By staying focused, working consistently, and embracing new experiences, we can overcome obstacles and reach our goals with confidence and determination.
         </Desc>
         <SocialContainer>
             <SocialIcon color="3B5999">
@@ -118,9 +118,9 @@ const Footer = () => {
 
       <Right>
         <Title>Contact</Title>
-        <ContactItem><LocationOnIcon style={{marginRight:"10px"}}/>777 jkfwefer 3232 oidd</ContactItem>
-        <ContactItem><LocalPhoneIcon style={{marginRight:"10px"}}/>+212 548 343 493</ContactItem>
-        <ContactItem><MailOutlineIcon style={{marginRight:"10px"}}/>conatctBB@gmail.com</ContactItem>
+        <ContactItem><LocationOnIcon style={{marginRight:"10px"}}/>My Address</ContactItem>
+        <ContactItem><LocalPhoneIcon style={{marginRight:"10px"}}/>+000 111 222 333</ContactItem>
+        <ContactItem><MailOutlineIcon style={{marginRight:"10px"}}/>conatctme@gmail.com</ContactItem>
         <Payment src="https://i.ibb.co/Qfvn4z6/payment.png" />
       </Right>
     </Container>

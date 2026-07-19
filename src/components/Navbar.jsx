@@ -85,7 +85,7 @@ const Navbar = () => {
 
             </LeftNav>
             <MiddleNav>
-              <Logo>HAFED STORE</Logo>
+              <Logo>DEMO STORE</Logo>
             </MiddleNav>
 
             <RightNav>
