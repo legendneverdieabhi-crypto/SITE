@@ -1,0 +1,10 @@
+
+services:
+  ecommercesite:
+    build: .
+    image: ecommercesite:latest
+    container_name: ecommercesite
+    ports:
+      - "8080:3000"
+    restart: unless-stopped
+
